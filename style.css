@@ -1,0 +1,32 @@
+
+.logo-img {
+    height: 34px;
+    width: 166%;
+
+}
+.slider-img{
+  width: 300px;
+  height: 400px;
+}
+.hr{
+  margin: 1rem 0;
+  color: inherit;
+  border: 0;
+  border-top: 4px solid;
+  opacity: 17.25;
+}
+.product-img-height{
+  display: flex;
+  height: 200px;
+  width: 90%;
+  align-items: center;
+}
+.footer-logo{
+  height: 204px;
+  width: 90%;
+  margin-top: -44px;
+}
+.Search-box-1{
+  display: flex;
+margin-top: 200px;
+}
